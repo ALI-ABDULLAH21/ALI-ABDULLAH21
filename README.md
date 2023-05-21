@@ -4,18 +4,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali-abdullah21&label=Profile%20views&color=0e75b6&style=flat" alt="ali-abdullah21" /> </p>
 
-- 🌱 I’m currently learning **DSA in C++**
+- 🌱 I’m currently learning **DSA in C++ and Web Developement**
 
-- 🤝 I’m looking for help in **DSA**
+- 🤝 I’m looking for guidance in **Web Developement**
 
 - 💬 Ask me about **python,java,oop**
 
-- 📫 How to reach me **malikabdullah1082@gmail.com**
+- 📫 How to reach me **thealiabdullah.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@the_aliabdullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@the_aliabdullah" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ali abdullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali abdullah" height="30" width="40" /></a>
+<a href="http://www.linkedin.com/in/ali-abdullah-017853245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali abdullah" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
