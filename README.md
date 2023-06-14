@@ -2,7 +2,7 @@
 <h3 align="center">A passionate computer science engineering student.</h3>
 <img align="center" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ali-abdullah21&label=Profile%20views&color=0e75b6&style=flat" alt="ali-abdullah21" /> </p>
+<p align="center"> <img  align="center" src="https://komarev.com/ghpvc/?username=ali-abdullah21&label=Profile%20views&color=0e75b6&style=flat" alt="ali-abdullah21" /> </p>
 
 - 🌱 I’m currently learning **DSA in C++ and Web Developement**
 
