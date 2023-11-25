@@ -4,11 +4,11 @@
 
 <p align="center"> <img  align="center" src="https://komarev.com/ghpvc/?username=ali-abdullah21&label=Profile%20views&color=0e75b6&style=flat" alt="ali-abdullah21" /> </p>
 
-- 🌱 I’m currently learning **DSA in C++ and Web Developement**
+- 🌱 I’m a **JavaScript && Typescript Developer**
 
-- 🤝 I’m looking for guidance in **Web Developement**
+- 🤝 I’m looking for guidance in **Next.js && TypeScript**
 
-- 💬 Ask me about **python,java,oop**
+- 💬 Ask me about **python,java,oop,dsa**
 
 - 📫 How to reach me **thealiabdullah.dev@gmail.com**
 
